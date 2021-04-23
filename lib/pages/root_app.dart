@@ -65,10 +65,10 @@ class _RootAppState extends State<RootApp> {
       "assets/images/order_icon.svg",
       "assets/images/account_icon.svg"
     ];
-    List textItems = ["Home", "Search", "Grocery", "Orders", "Account"];
+    List textItems = ["Home", "Search", "Restaurants", "Orders", "Account"];
     return Container(
       width: double.infinity,
-      height: 90,
+      height: 71,
       decoration: BoxDecoration(
           color: white,
           border: Border(

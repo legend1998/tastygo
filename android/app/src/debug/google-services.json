@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526781065858",
+    "project_id": "tastygo-54276",
+    "storage_bucket": "tastygo-54276.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526781065858:android:e66c221f7c955b54bda29b",
+        "android_client_info": {
+          "package_name": "com.example.grab_eat_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526781065858-2h062485mbtg7orbaau17ng9tahr2ibb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6bfcAhU8EeXidpL5ZG_TZL5BONHM0t_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526781065858-2h062485mbtg7orbaau17ng9tahr2ibb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
